@@ -1,8 +1,14 @@
-host: rakyll.pizza
+host: go.didenko.com
 
 paths:
-  /portmidi:
-    repo: https://github.com/rakyll/portmidi
+  /fst:
+    repo: https://github.com/didenko/fst
 
-  /launchpad:
-    repo: https://github.com/rakyll/launchpad
+  /pald:
+    https://github.com/didenko/pald
+
+  /slops:
+    https://github.com/didenko/slops
+
+  /gate:
+    https://gitlab.com/vldid/gate
